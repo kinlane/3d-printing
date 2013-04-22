@@ -1,0 +1,10 @@
+---
+layout: post
+title: MAKE | 3D Printing Revolution: the Complex Reality
+url: http://blog.makezine.com/2013/02/14/3d-printing-revolution-the-complex-reality/
+source: http://blog.makezine.com/2013/02/14/3d-printing-revolution-the-complex-reality/
+domain: blog.makezine.com
+---
+{% include JB/setup %}<p>This miniature, high-precision assembly started with a CAD model and not much more. It cost about $10 to make it at home – with no 3D printer required.In the past couple of years, the concept of low-cost 3D printing has captured the hearts and minds of millions of geeks.The allure of an upcoming manufacturing revolution has seeped into the mainstream, too: take The Economist, which ran about two dozen articles about this technology within the last year alone.Something must be in the air!</p>
+<center><p><a href="http://blog.makezine.com/2013/02/14/3d-printing-revolution-the-complex-reality/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

@@ -1,0 +1,11 @@
+---
+layout: post
+title: NASA Gets Serious About 3D Printing
+url: http://fabbaloo.com/blog/2013/2/28/nasa-gets-serious-about-3d-printing.html#.US_BXOtARJ4
+source: http://fabbaloo.com/blog/2013/2/28/nasa-gets-serious-about-3d-printing.html#.US_BXOtARJ4
+domain: fabbaloo.com
+---
+{% include JB/setup %}<p>However, there are significant challenges, not the least of which is safety.But theyre working on it. 
+ Recently theyve been investigating the use of 3D printing for building components for the new Space Launch System, or SLS.The idea is straightforward: 3D printed parts can be much lighter than conventionally manufactured component because the additive process permits production of more efficient geometric shapes.Theyre using metal 3D printing technology from Concept Laser to produce engine parts.</p>
+<center><p><a href="http://fabbaloo.com/blog/2013/2/28/nasa-gets-serious-about-3d-printing.html#.US_BXOtARJ4" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

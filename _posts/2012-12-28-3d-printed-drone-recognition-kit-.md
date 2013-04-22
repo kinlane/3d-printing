@@ -1,0 +1,10 @@
+---
+layout: post
+title: 3D printed drone recognition kit 
+url: http://blog.ponoko.com/2012/12/28/3d-printed-drone-recognition-kit/#.UN3xZeV04XA.twitter
+source: http://blog.ponoko.com/2012/12/28/3d-printed-drone-recognition-kit/#.UN3xZeV04XA.twitter
+domain: blog.ponoko.com
+---
+{% include JB/setup %}<p>The UAV Identification Kit 001 was made by James Bridle while he was an Artist in Residence at the Visible Futures Lab at the School of Visual Arts in New York.It is intended both to help visualize drones for a public that is still largely unaware of their particulars and to aid in the identification of drones by observers on the ground.The kit includes 3D printed models of three commonly used military drones: the MQ-1 Predator, the RQ-170 Sentinel, and the RQ-4 Global Hawk.Equivalent kits for manned aircraft have long been used to train both military and civilian spotters, the most well-known example being civilian spotters trained during WWII.Drones, more properly known as Unmanned Aerial Vehicles (UAVs), have recently seen a dramatic rise in use for border patrol, storm observation, humanitarian relief, and, especially, warfare.</p>
+<center><p><a href="http://blog.ponoko.com/2012/12/28/3d-printed-drone-recognition-kit/#.UN3xZeV04XA.twitter" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+
