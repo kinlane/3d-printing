@@ -4,7 +4,9 @@ title: EFF’s Fight for Open 3D Printing Continues at Ask Patents
 url: https://www.eff.org/deeplinks/2013/03/effs-fight-open-3d-printing-continues-askpatentscom
 source: https://www.eff.org/deeplinks/2013/03/effs-fight-open-3d-printing-continues-askpatentscom
 domain: www.eff.org
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/6986_www_eff_org.png
 ---
-{% include JB/setup %}<p>We’ve been working for some time—with your help—to ensure that improvidently granted patents don’t threaten exciting and growing 3D printing technology.The good news is that with the help of the Cyberlaw Clinic at Harvards Berkman Center for Internet and Society, we’ve been able to challenge a number of such dangerous patent applications at the Patent Office.But we’re not done.The project to challenge patent applications covering 3D printing technology is important not just because of the promise of that technology, but because we’re relying on a fairly new legal procedure called Preissuance Submissions.That procedure allows third parties to participate in the patent application process by providing patent examiners with prior art.</p>
+
+<p>We’ve been working for some time—with your help—to ensure that improvidently granted patents don’t threaten exciting and growing 3D printing technology.The good news is that with the help of the Cyberlaw Clinic at Harvards Berkman Center for Internet and Society, we’ve been able to challenge a number of such dangerous patent applications at the Patent Office.But we’re not done.The project to challenge patent applications covering 3D printing technology is important not just because of the promise of that technology, but because we’re relying on a fairly new legal procedure called Preissuance Submissions.That procedure allows third parties to participate in the patent application process by providing patent examiners with prior art.</p>
 <center><p><a href="https://www.eff.org/deeplinks/2013/03/effs-fight-open-3d-printing-continues-askpatentscom" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

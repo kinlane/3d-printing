@@ -1,0 +1,12 @@
+---
+layout: post
+title: Learn Foundations of 3D Printing and Introduction to 3D Modeling
+url: http://www.shapeways.com/blog/archives/2020-Learn-Foundations-of-3D-Printing-and-Introduction-to-3D-Modeling.html
+source: http://www.shapeways.com/blog/archives/2020-Learn-Foundations-of-3D-Printing-and-Introduction-to-3D-Modeling.html
+domain: www.shapeways.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7593_www_shapeways_com.png
+---
+
+<p>This class has evolved greatly over the past year and a half.This is an extended version that is essentially two classes: Foundations of 3D Printing, and Introduction to 3D Modeling.The goal of the class is to give a complete primer on printing processes and software, then show how you can apply that knowledge to create your own designs and manufacture them at home or from a service bureau like Shapeways.You will also learn about selling items from your Shapeways shop, custom object co-creation, and the logistics of re-selling printed items through other venues like Etsy and Ebay. </p>
+<center><p><a href="http://www.shapeways.com/blog/archives/2020-Learn-Foundations-of-3D-Printing-and-Introduction-to-3D-Modeling.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

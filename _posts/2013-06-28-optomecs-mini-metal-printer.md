@@ -1,0 +1,12 @@
+---
+layout: post
+title: Optomec’s Mini Metal Printer
+url: http://fabbaloo.com/blog/2013/6/28/optomecs-mini-metal-printer.html
+source: http://fabbaloo.com/blog/2013/6/28/optomecs-mini-metal-printer.html
+domain: fabbaloo.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/10411_fabbaloo_com.png
+---
+
+<p>In the world of 3D printing, bigger really is better,  but New Mexico-based Optomec plans to take things in a different direction. The company will bring selective laser sintering down to the micro scale with their new Laser Engineered Net Shaping printer.Originally created at Sandia National Labs for use by the military and aerospace industry, the LENS 450 printer has just a 100x100x100mm (3.94x3.94x3.</p>
+<center><p><a href="http://fabbaloo.com/blog/2013/6/28/optomecs-mini-metal-printer.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+
