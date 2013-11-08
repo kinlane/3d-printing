@@ -1,12 +1,0 @@
----
-layout: post
-title: Londons Science Museum Needs Your 3D Prints
-url: http://fabbaloo.com/blog/2013/7/12/londons-science-museum-needs-your-3d-prints.html
-source: http://fabbaloo.com/blog/2013/7/12/londons-science-museum-needs-your-3d-prints.html
-domain: fabbaloo.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/10938_fabbaloo_com.png
----
-
-<p>The London Science Museum is developing an exhibition focused on 3D printing, set to open this October.A key part of the display will include a giant wall containing a variety of different 3D prints from different printers, using different materials and having different shapes.  But where will these prints come from?The museum has invited 3D printer owners worldwide to produce and donate objects to this display.According to the museums Exhibition Content Developer Rohan Mehra:  We’re after the widest range of materials/colours possible, so not just FDM but any other process too, so long as the object is (mostly) 3D printed.</p>
-<center><p><a href="http://fabbaloo.com/blog/2013/7/12/londons-science-museum-needs-your-3d-prints.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

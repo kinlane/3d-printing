@@ -1,12 +1,0 @@
----
-layout: post
-title: NASA Developing a 3D Food Printer
-url: http://fabbaloo.com/blog/2013/5/15/nasa-developing-a-3d-food-printer.html
-source: http://fabbaloo.com/blog/2013/5/15/nasa-developing-a-3d-food-printer.html
-domain: fabbaloo.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/8733_fabbaloo_com.png
----
-
-<p>According to a report in New Scientist, NASA is funding research that could lead to 3D printed food technology.Texas-based Anjan Contractor of Systems and Materials Research Corporation obtained funding from NASAs Small Business Innovation Research Program to develop a fully functional 3D food printer.  The goal of this program is to creat te a way to produce nutritious food, while storing the ingredients compactly, during a lengthy Mars mission.We suspect another major benefit sought is to introduce variety and change into food preparations.If youre stuck in a tiny spacecraft for over a year, youd like some variety, too.</p>
-<center><p><a href="http://fabbaloo.com/blog/2013/5/15/nasa-developing-a-3d-food-printer.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

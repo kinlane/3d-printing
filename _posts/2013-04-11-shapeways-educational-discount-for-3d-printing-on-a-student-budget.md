@@ -1,12 +1,0 @@
----
-layout: post
-title: Shapeways Educational Discount for 3D Printing on a Student Budget
-url: http://www.shapeways.com/blog/archives/2012-Shapeways-Educational-Discount-for-3D-Printing-on-a-Student-Budget.html
-source: http://www.shapeways.com/blog/archives/2012-Shapeways-Educational-Discount-for-3D-Printing-on-a-Student-Budget.html
-domain: www.shapeways.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7437_www_shapeways_com.png
----
-
-<p>Today we have launched the first stage of the Shapeways Educational Program with an awesome 10% discount on 3D printing for all students and educators with a Shapeways account registered with an.edu email address.This is our first step at helping students and educators have better access to high quality 3D printing through Shapeways. We will be rolling out more features as part of the Shapeways Education Program so that everyone from elementary to post graduate students can use 3D printing to help them learn, understand and communicate their ideas whether they be technical, artistic or conceptual.Register for the 10% discount on all 3D printing by visiting the Shapeways Education page and activating your email.</p>
-<center><p><a href="http://www.shapeways.com/blog/archives/2012-Shapeways-Educational-Discount-for-3D-Printing-on-a-Student-Budget.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

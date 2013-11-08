@@ -1,12 +1,0 @@
----
-layout: post
-title: 3D Printing Goes Mainstream with Staples
-url: http://cubify.com/blog/3d-printing-goes-mainstream-with-staples/
-source: http://cubify.com/blog/3d-printing-goes-mainstream-with-staples/
-domain: cubify.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/8345_cubify_com.png
----
-
-<p>We are proud to announce that the Cube 3D Printer is the first 3D printer to be widely available in a major U.S.retailer – Staples!Starting in June 2013 Staples will be introducing the Cube 3D printer in a limited number of stores nationwide.Customers will be able to see the Cube in action and check out a variety of print samples in stores.</p>
-<center><p><a href="http://cubify.com/blog/3d-printing-goes-mainstream-with-staples/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

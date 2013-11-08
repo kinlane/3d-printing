@@ -1,12 +1,0 @@
----
-layout: post
-title: Daimler funds the development of a large scale 3D printer for metal
-url: http://blog.ponoko.com/2013/01/15/daimler-funds-the-development-of-a-large-scale-3d-printer-for-metal/
-source: http://blog.ponoko.com/2013/01/15/daimler-funds-the-development-of-a-large-scale-3d-printer-for-metal/
-domain: blog.ponoko.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-
-<p>The German automaker Daimler AG has funded a research partnership between the Fraunhofer Institute of Laser Technology and the German company Concept Laser.The result was the X line 1000R system with a build volume is 630mm x 400mm x 500mm (23.6 inches x 15.7 inches x 19.7 inches) and a layer thickness of 20 to 100 microns.</p>
-<center><p><a href="http://blog.ponoko.com/2013/01/15/daimler-funds-the-development-of-a-large-scale-3d-printer-for-metal/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

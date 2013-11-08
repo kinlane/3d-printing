@@ -1,10 +1,0 @@
----
-layout: post
-title: Industrial Revolution 3.0: Mike Senese and Peter Weijmarshausen Discuss the Future of 3D Printing - Shapeways Blog on 3D Printing News & Innovation
-url: http://www.shapeways.com/blog/archives/1960-Industrial-Revolution-3.0-Mike-Senese-and-Peter-Weijmarshausen-Discuss-the-Future-of-3D-Printing.html
-source: http://www.shapeways.com/blog/archives/1960-Industrial-Revolution-3.0-Mike-Senese-and-Peter-Weijmarshausen-Discuss-the-Future-of-3D-Printing.html
-domain: www.shapeways.com
----
-{% include JB/setup %}<p>Well be posting a full audio of the panel shortly but in the meantime, check out #Future3DP on twitter for interesting quotes and questions about whether this technology is actually a game changer.</p>
-<center><p><a href="http://www.shapeways.com/blog/archives/1960-Industrial-Revolution-3.0-Mike-Senese-and-Peter-Weijmarshausen-Discuss-the-Future-of-3D-Printing.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

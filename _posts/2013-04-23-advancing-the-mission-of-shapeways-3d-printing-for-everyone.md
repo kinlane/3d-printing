@@ -1,12 +1,0 @@
----
-layout: post
-title: Advancing the Mission of Shapeways: 3D Printing for Everyone
-url: http://www.shapeways.com/blog/archives/2029-Advancing-the-Mission-of-Shapeways-3D-Printing-for-Everyone.html
-source: http://www.shapeways.com/blog/archives/2029-Advancing-the-Mission-of-Shapeways-3D-Printing-for-Everyone.html
-domain: www.shapeways.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7820_www_shapeways_com.png
----
-
-<p>Today marks a milestone for Shapeways.On behalf of the Shapeways team, we are truly excited to announce a new round of financing of $30 million led by Andreessen Horowitz, with Chris Dixon joining our executive board.Our existing investors – Union Square Ventures, Index Ventures, and Lux Capital – also participated in this round.All of our investors believe, like us, that 3D printing has the potential to completely change the world.With this funding, we will grow our team (we’re hiring!</p>
-<center><p><a href="http://www.shapeways.com/blog/archives/2029-Advancing-the-Mission-of-Shapeways-3D-Printing-for-Everyone.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -1,12 +1,0 @@
----
-layout: post
-title: EFF Challenges 3D Printing Patent Applications
-url: http://fabbaloo.com/blog/2013/4/15/eff-challenges-3d-printing-patent-applications.html
-source: http://fabbaloo.com/blog/2013/4/15/eff-challenges-3d-printing-patent-applications.html
-domain: fabbaloo.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7704_fabbaloo_com.png
----
-
-<p>In a dramatic move, the Electronic Frontier Foundation has launched legal challenges against six foundational patent applications directly related to 3D printing.Theyve done this by submitting prior art (evidence of prior use or invention by others) to the proper authorities.  Will the EFF succeed in overturning these patent applications?We have no idea, as the mysteries of US Patent processing are well beyond our comprehension level.Whatever the outcome, we are certain it will take a very long time.</p>
-<center><p><a href="http://fabbaloo.com/blog/2013/4/15/eff-challenges-3d-printing-patent-applications.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

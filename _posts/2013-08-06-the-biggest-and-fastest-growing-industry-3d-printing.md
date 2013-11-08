@@ -1,12 +1,0 @@
----
-layout: post
-title: The Biggest and Fastest Growing Industry: 3D Printing
-url: http://fabbaloo.com/blog/2013/8/6/the-biggest-and-fastest-growing-industry-3d-printing.html
-source: http://fabbaloo.com/blog/2013/8/6/the-biggest-and-fastest-growing-industry-3d-printing.html
-domain: fabbaloo.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/11542_fabbaloo_com.png
----
-
-<p>The list makes sense to us.Everything points to green, especially those wind turbines we see out the window.Personal Care rides on the aging demographics in Western countries.Social Network Games may be seen anywhere youngsters combine with smartphones.Generic Pharmacy results as patents expire.</p>
-<center><p><a href="http://fabbaloo.com/blog/2013/8/6/the-biggest-and-fastest-growing-industry-3d-printing.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

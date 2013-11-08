@@ -1,12 +1,0 @@
----
-layout: post
-title: UK Retailer Sainsburys Predicts that 3D Printing will Shake up the Retail Sector
-url: http://www.shapeways.com/blog/archives/1909-UK-Retailer-Sainsburys-Predicts-that-3D-Printing-will-Shake-up-the-Retail-Sector.html
-source: http://www.shapeways.com/blog/archives/1909-UK-Retailer-Sainsburys-Predicts-that-3D-Printing-will-Shake-up-the-Retail-Sector.html
-domain: www.shapeways.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-
-<p>Large UK retailer Sainsbury is already preparing its strategy for incorporating 3D printing into its offerings to outpace its competitors.Sainsburys IT director, Rob Fraser believes that 3D printing will effect the retail sector in ways they cannot yet even conceive.At Shapeways, we have been nurturing our 3D marketplace of 3D printed products for years as some of the best designers from all around the world are opening Shapeways shops and selling their 3D printed products on demand.Those designers are fully aware of the benefits of using 3D printing to make their products available to the public.The major benefits for designers being: Designers do not need to invest financially in the product as all items are 3D printed on demand.</p>
-<center><p><a href="http://www.shapeways.com/blog/archives/1909-UK-Retailer-Sainsburys-Predicts-that-3D-Printing-will-Shake-up-the-Retail-Sector.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

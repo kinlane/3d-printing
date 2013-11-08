@@ -1,12 +1,0 @@
----
-layout: post
-title: Introducing the new 3D print lab
-url: http://i.materialise.com/blog/entry/introducing-the-new-3d-print-lab
-source: http://i.materialise.com/blog/entry/introducing-the-new-3d-print-lab
-domain: i.materialise.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7708_i_materialise_com.png
----
-
-<p>We’ve just released a new and improved version of our 3D print lab.Let’s take a look at some of the new things we introduced.We haven’t changed the main idea of how the 3D print lab works.With no login required, you still upload a 3D file of your design for which you’ll see an instant price.Then you choose a material, a color/finish, rescale the model if necessary and order as many copies as you want.</p>
-<center><p><a href="http://i.materialise.com/blog/entry/introducing-the-new-3d-print-lab" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

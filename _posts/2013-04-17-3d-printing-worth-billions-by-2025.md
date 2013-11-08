@@ -1,12 +1,0 @@
----
-layout: post
-title: 3D Printing: Worth Billions By 2025
-url: http://fabbaloo.com/blog/2013/4/17/3d-printing-worth-billions-by-2025.html
-source: http://fabbaloo.com/blog/2013/4/17/3d-printing-worth-billions-by-2025.html
-domain: fabbaloo.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7687_fabbaloo_com.png
----
-
-<p>Last years value was a mere USD$777M, suggesting a rise of USD$7.6B over the next twelve years.This is a compound annual growth rate of around 22%.Thats big.  Lux Research indicates most of the growth will occur in manufacturing, rather than personal use, saying:  Over the longer term, 3D printing has potential to reshape the manufacturing ecosystem, but it will have the most impact in the near term for products that are made in small volumes, require high customization, and are more cost-tolerant.</p>
-<center><p><a href="http://fabbaloo.com/blog/2013/4/17/3d-printing-worth-billions-by-2025.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

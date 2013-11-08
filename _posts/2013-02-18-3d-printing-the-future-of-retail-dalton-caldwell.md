@@ -1,10 +1,0 @@
----
-layout: post
-title: 3D printing & the future of retail | Dalton Caldwell
-url: http://daltoncaldwell.com/3d-printing-the-future-of-retail
-source: http://daltoncaldwell.com/3d-printing-the-future-of-retail
-domain: daltoncaldwell.com
----
-{% include JB/setup %}<p>“Retail chains are a fundamentally implausible economic structure if there’s a viable alternative,” he says.“You combine the fixed cost of real estate with inventory, and it puts every retailer in a highly leveraged position.Few can survive a decline of 20 to 30 percent in revenues.It just doesn’t make any sense for all this stuff to sit on shelves.There is fundamentally a better model.</p>
-<center><p><a href="http://daltoncaldwell.com/3d-printing-the-future-of-retail" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
