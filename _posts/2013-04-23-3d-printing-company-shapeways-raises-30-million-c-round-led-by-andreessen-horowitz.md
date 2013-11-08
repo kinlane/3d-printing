@@ -1,0 +1,12 @@
+---
+layout: post
+title: 3D Printing Company Shapeways Raises 30 Million C Round Led By Andreessen Horowitz
+url: http://techcrunch.com/2013/04/23/3d-printing-company-shapeways-raises-30-million-c-round-led-by-andreessen-horowitz/
+source: http://techcrunch.com/2013/04/23/3d-printing-company-shapeways-raises-30-million-c-round-led-by-andreessen-horowitz/
+domain: techcrunch.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7823_techcrunch_com.png
+---
+
+<p>3D printing service Shapeways has raised a $30 million round led by Andreessen Horowitz.Current investors including Union Square Ventures, Index Ventures, and Lux Capital also chipped in.Chris Dixon, partner at Andreessen Horowitz, is joining the Shapeways Board.The company plans to grow their team and add more factories to allow for more local production of products.“We’ve come a long way with Shapeways,” said co-founder and CEO Peter Weijmarshausen.</p>
+<center><p><a href="http://techcrunch.com/2013/04/23/3d-printing-company-shapeways-raises-30-million-c-round-led-by-andreessen-horowitz/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

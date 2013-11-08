@@ -1,0 +1,12 @@
+---
+layout: post
+title: OpenCo Comes To MakerBot
+url: http://www.makerbot.com/blog/2013/05/22/openco-ny-comes-to-makerbot/
+source: http://www.makerbot.com/blog/2013/05/22/openco-ny-comes-to-makerbot/
+domain: www.makerbot.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9010_www_makerbot_com.png
+---
+
+<p>For those of you who missed ticketing to our sold-out Thursday afternoon OpenCo event, follow our tweets @MakerBot for live updates. MakerBot will be joining 100+ innovative companies for OpenCo New York, an open-house for innovative companies happening across the city this Wednesday and Thursday.Billed by its founders John Battelle and Brian Monahan as a hybrid business conference and festival, the event aims to highlight companies that share a philosophy of open communication and collaboration.MakerBot will be joining a prestigious roster of companies like Google, Etsy, Kickstarter, IDEO, and other NY-based companies that are opening up their offices for OpenCo events. For fans of innovative companies like MakerBot living in London, Detroit, or San Francisco, be on the lookout for more OpenCo events coming your way this year.</p>
+<center><p><a href="http://www.makerbot.com/blog/2013/05/22/openco-ny-comes-to-makerbot/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

@@ -1,0 +1,12 @@
+---
+layout: post
+title: Industrial Designer 3D Prints a Broom Stick Into a Floor Lamp
+url: http://www.shapeways.com/blog/archives/2158-Industrial-Designer-3D-Prints-a-Broom-Stick-Into-a-Floor-Lamp.html
+source: http://www.shapeways.com/blog/archives/2158-Industrial-Designer-3D-Prints-a-Broom-Stick-Into-a-Floor-Lamp.html
+domain: www.shapeways.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/10494_www_shapeways_com.png
+---
+
+<p>Why clean when you can illuminate?New York based industrial designer Christian Stolarz has designed two elegantly simple components for 3D printing that transform an every day broom stick into a beautiful lamp. I was unhappy with the lighting situation in my house, thank god Im a designer and able to fix this situation!Just as Sprout, designed by Egant converted a plastic milk jug into an easy to use watering can, the Broom Stick Floor Lamp combines a few items you may already have lying around your home to transform them to more than the sum of its parts.The 3D printed parts fit standard broomsticks with a 23.</p>
+<center><p><a href="http://www.shapeways.com/blog/archives/2158-Industrial-Designer-3D-Prints-a-Broom-Stick-Into-a-Floor-Lamp.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

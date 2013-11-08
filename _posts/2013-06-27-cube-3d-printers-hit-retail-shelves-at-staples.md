@@ -1,0 +1,12 @@
+---
+layout: post
+title: Cube 3D Printers hit retail shelves at Staples
+url: http://cubify.com/blog/cube-3d-printers-hit-retails-shelves-at-staples/
+source: http://cubify.com/blog/cube-3d-printers-hit-retails-shelves-at-staples/
+domain: cubify.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/10362_cubify_com.png
+---
+
+<p>Staples is the first major U.S.retailer to announce the availability of this innovative technology that lets you create fully formed objects in your home or small business.The Cube is an awesome and beautiful 3D printer that is easy to use and ready to plug in and play.Have you seen the Cube printer at a Staples store near you?</p>
+<center><p><a href="http://cubify.com/blog/cube-3d-printers-hit-retails-shelves-at-staples/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

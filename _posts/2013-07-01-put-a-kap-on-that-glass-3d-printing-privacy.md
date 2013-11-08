@@ -1,0 +1,12 @@
+---
+layout: post
+title: Put a Kap on That Glass: 3D Printing Privacy
+url: http://www.shapeways.com/blog/archives/2157-Put-a-Kap-on-That-Glass-3D-Printing-Privacy.html
+source: http://www.shapeways.com/blog/archives/2157-Put-a-Kap-on-That-Glass-3D-Printing-Privacy.html
+domain: www.shapeways.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/10495_www_shapeways_com.png
+---
+
+<p>After surreptitiously 3D scanning a museum artifact with Google Glass Todd Blatt is now playing the devils advocate by providing a 3D printed cap to cover the lens of Google Glass and ensure the privacy of those around the wearer.The GlassKap Kickstarter campaign is a range of accessories for Google Glass to either give those around the wearer privacy, or make explicit that the glass is On Air and may be recording or even streaming what the wearer is currently seeing.Along with the GlassKap, the product range also includes a few less functional and more fun items such as a wearable planter, pencil holder and laser sight. Although this is a playful response to the privacy issues surrounding google glass, it is also indicative of what is possible with 3D printing, to embed smart devices into almost any 3D printed product. Glass is starting to become a recognizable form that may indicate that you are being filmed, but what if someone were to 3D print a new housing and place the tell-tale form behind a polaroid lens.</p>
+<center><p><a href="http://www.shapeways.com/blog/archives/2157-Put-a-Kap-on-That-Glass-3D-Printing-Privacy.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+
