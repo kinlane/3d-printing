@@ -14,35 +14,3 @@ title: 3D Printing
 <p>3D printing, with the help of web APIs are moving beyond hobby and art, and have serious potential for re-defining the global manufacturing landscape.
 
 <p>There are several platforms focusing on providing APIs for 3D printing. In this section I will be tracking on news and companies that are doing interesting things around 3D printing and APIs, while also sharing blog analysis as well.</p>
-
-<!-- Begin List API Design companies--->
-{% raw  %}
-<script id="companyListingTemplate" type="text/template">       
-    <li style="list-style: none; padding: 30px; border: 0px solid #000;">
-        <a href="companies-detail.html?id={{id}}"><img src="{{logo}}" width="200" align="left" style="padding: 15px;" /></a>
-        <a href="companies-detail.html?id={{id}}" style="color: #000;"><strong>{{name}}</strong></a> - {{summary}}... <a href="companies-detail.html?id={{id}}">details</a>.
-    </li>                                                                                               
-</script>
-{% endraw %}
-
-<p><a id="jsonlink" href="data/companies.json" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-json-data-store.png" align="right" width="50" style="padding-top: 10px;" /></a></p>
-<h1>Companies</h1>
-<div style="padding-left: 10px; padding-right: 10px; width:550px;">
-     <ul id="companyListing" style="padding-left: 30px;"></ul>
-</div>  
-
-<script type="text/javascript">
-function listCompanies()
-    {
-    $.getJSON('data/companies.json', function(data) {
-        toggle = 0;
-         $.each(data['company'], function(key, val) {
-            var template = $('#companyListingTemplate').html();
-            var html = Mustache.to_html(template, val);
-            $('#companyListing').append(html);                          
-            });
-        });
-    } 
-listCompanies();
-</script>
-<!-- End List API Design companies--->
